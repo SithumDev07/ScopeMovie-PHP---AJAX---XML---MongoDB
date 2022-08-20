@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongo-php-driver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongo-php-driver/src/libmongoc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongo-php-driver/src/libmongocrypt" vcs="Git" />
+  </component>
+</project>
