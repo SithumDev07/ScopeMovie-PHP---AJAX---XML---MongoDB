@@ -3,13 +3,13 @@
     <div class="bg-logo bg-cover w-14 h-14 rounded-full overflow-hidden"></div>
     <ul class="links flex-1 flex items-center justify-center md:justify-start space-x-6 ml-5">
             <li>
-                <a href="/toprated">Top Rated</a>
+                <a href="/toprated" class="navbar-item">Top Rated</a>
             </li>
             <li>
-                <a href="/newarrivals">New Arrivals</a>
+                <a href="/newarrivals" class="navbar-item">New Arrivals</a>
             </li>
             <li>
-                <a href="/all">All</a>
+                <a href="/all" class="navbar-item">All</a>
             </li>
         </ul>
         <div class="actions hidden md:flex items-center space-x-6">

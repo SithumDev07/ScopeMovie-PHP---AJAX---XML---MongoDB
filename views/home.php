@@ -10,8 +10,37 @@
     $converted_genres = "Action, Adventure, Drama";
     $year = 2021;
     $summary = "A noble family becomes embroiled in a war for control in a war for control over the galaxy's most valuable asset while it's heir becomes troubled by visions of a dark future.";
-
+    $posters = array(
+        "sc1.jpg",
+        "sc2.jpeg",
+        "sc3.jpeg",
+        "sc4.jpeg"
+    );
+    $actors = [
+        [
+            "image" => "ac1.jpeg",
+            "name" => "Jason"
+        ],
+        [
+            "image" => "ac2.jpeg",
+            "name" => "Bautista"
+        ],
+        [
+            "image" => "ac3.jpg",
+            "name" => "Timothee"
+        ],
+        [
+            "image" => "ac4.jpeg",
+            "name" => "Zendaya"
+        ],
+        [
+            "image" => "ac5.jpg",
+            "name" => "Rebecca"
+        ],
+    ];
     include "components/BigBButton.php";
+    include "components/FeaturedPoster.php";
+    include "components/FeaturedActor.php";
 ?>
 <body>
     <?php include "partials/navbar.php"; ?>
@@ -36,19 +65,20 @@
             </div>
             <div class="details text-scope-white p-4 md:p-10">
                 <h3 class="text-base md:text-3xl">Posters</h3>
-                <ul class="flex items-center space-x-2 md:space-x-6 mt-2 md:mt-4">
-                    <img class="object-cover h-20 md:h-28 w-auto md:w-48 rounded-md" src="assets/images/dune/screenplays/sc1.jpg" alt="Screen Play One">
-                    <img class="object-cover h-20 md:h-28 w-auto md:w-48 rounded-md" src="assets/images/dune/screenplays/sc2.jpeg" alt="Screen Play One">
-                    <img class="object-cover h-20 md:h-28 w-auto md:w-48 rounded-md" src="assets/images/dune/screenplays/sc3.jpeg" alt="Screen Play One">
-                    <img class="object-cover h-20 md:h-28 w-auto md:w-48 rounded-md" src="assets/images/dune/screenplays/sc4.jpeg" alt="Screen Play One">
+                <ul class="flex items-center space-y-3 space-x-2 md:space-x-6 mt-2 md:mt-4">
+                    <?php
+                        foreach($posters as $poster) {
+                            FeaturedPoster($poster);
+                        }
+                    ?>
                 </ul>
                 <h3 class="mt-6 md:mt-14 text-base md:text-3xl">Actors</h3>
                 <ul class="flex items-center space-x-2 md:space-x-4 mt-2 md:mt-4">
-                    <img class="object-cover h-10 md:h-14 w-10 md:w-14 rounded-full grayscale" src="assets/images/dune/actors/ac1.jpeg" alt="Actor One">
-                    <img class="object-cover h-10 md:h-14 w-10 md:w-14 rounded-full grayscale" src="assets/images/dune/actors/ac2.jpeg" alt="Actor One">
-                    <img class="object-cover h-10 md:h-14 w-10 md:w-14 rounded-full grayscale" src="assets/images/dune/actors/ac3.jpg" alt="Actor One">
-                    <img class="object-cover h-10 md:h-14 w-10 md:w-14 rounded-full grayscale" src="assets/images/dune/actors/ac4.jpeg" alt="Actor One">
-                    <img class="object-cover h-10 md:h-14 w-10 md:w-14 rounded-full grayscale" src="assets/images/dune/actors/ac5.jpg" alt="Actor One">
+                    <?php 
+                        foreach($actors as $actor) {
+                            FeaturedActor($actor['image'], $actor['name']);
+                        }
+                    ?>
                 </ul>
             </div>
         </div>
