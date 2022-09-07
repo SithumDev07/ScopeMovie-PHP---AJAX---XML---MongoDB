@@ -1,0 +1,14 @@
+{
+    "name": "sithum/scope-movie",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sithum",
+            "email": "sithum.dashantha@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "1.13.0",
+        "ext-simplexml": "*"
+    }
+}

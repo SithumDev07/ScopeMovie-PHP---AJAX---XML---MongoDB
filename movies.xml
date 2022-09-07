@@ -1,403 +1,285 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-   <results>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg</backdrop_path>
-         <genre_ids>
-            <element>27</element>
-            <element>53</element>
-         </genre_ids>
-         <id>756999</id>
-         <original_language>en</original_language>
-         <original_title>The Black Phone</original_title>
-         <overview>Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.</overview>
-         <popularity>2343.324</popularity>
-         <poster_path>/lr11mCT85T1JanlgjMuhs9nMht4.jpg</poster_path>
-         <release_date>2022-06-22</release_date>
-         <title>The Black Phone</title>
-         <video>false</video>
-         <vote_average>7.9</vote_average>
-         <vote_count>1936</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/uR0FopHrAjDlG5q6PZB07a1JOva.jpg</backdrop_path>
-         <genre_ids>
-            <element>16</element>
-            <element>878</element>
-            <element>28</element>
-         </genre_ids>
-         <id>610150</id>
-         <original_language>ja</original_language>
-         <original_title>ドラゴンボール超：スーパーヒーロー</original_title>
-         <overview>The Red Ribbon Army, an evil organization that was once destroyed by Goku in the past, has been reformed by a group of people who have created new and mightier Androids, Gamma 1 and Gamma 2, and seek vengeance against Goku and his family.</overview>
-         <popularity>3156.32</popularity>
-         <poster_path>/rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg</poster_path>
-         <release_date>2022-06-11</release_date>
-         <title>Dragon Ball Super: Super Hero</title>
-         <video>false</video>
-         <vote_average>7.5</vote_average>
-         <vote_count>103</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg</backdrop_path>
-         <genre_ids>
-            <element>28</element>
-            <element>12</element>
-            <element>878</element>
-         </genre_ids>
-         <id>634649</id>
-         <original_language>en</original_language>
-         <original_title>Spider-Man: No Way Home</original_title>
-         <overview>Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.</overview>
-         <popularity>1329.776</popularity>
-         <poster_path>/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg</poster_path>
-         <release_date>2021-12-15</release_date>
-         <title>Spider-Man: No Way Home</title>
-         <video>false</video>
-         <vote_average>8</vote_average>
-         <vote_count>14715</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/4dNv1W1KMSLdYGz0tCEaynF0E4Q.jpg</backdrop_path>
-         <genre_ids>
-            <element>28</element>
-            <element>53</element>
-            <element>80</element>
-         </genre_ids>
-         <id>854467</id>
-         <original_language>en</original_language>
-         <original_title>Indemnity</original_title>
-         <overview>An ex-fireman with PTSD goes on the run when accused of a crime he doesn't even remember committing, leading him down a rabbit hole of conspiracy to the highest degree.</overview>
-         <popularity>1229.588</popularity>
-         <poster_path>/tVbO8EAbegVtVkrl8wNhzoxS84N.jpg</poster_path>
-         <release_date>2022-02-11</release_date>
-         <title>Indemnity</title>
-         <video>false</video>
-         <vote_average>7</vote_average>
-         <vote_count>53</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/k2G4WqGiT60K9yJnPh4K6VLnl3A.jpg</backdrop_path>
-         <genre_ids>
-            <element>28</element>
-            <element>12</element>
-            <element>14</element>
-         </genre_ids>
-         <id>639933</id>
-         <original_language>en</original_language>
-         <original_title>The Northman</original_title>
-         <overview>Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.</overview>
-         <popularity>927.49</popularity>
-         <poster_path>/8p9zXB7M78nZpm215zHfqpknMeM.jpg</poster_path>
-         <release_date>2022-04-07</release_date>
-         <title>The Northman</title>
-         <video>false</video>
-         <vote_average>7.2</vote_average>
-         <vote_count>2170</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/8TUb2U9GN3PonbXAQ1FBcJ4XeXu.jpg</backdrop_path>
-         <genre_ids>
-            <element>53</element>
-            <element>27</element>
-         </genre_ids>
-         <id>760741</id>
-         <original_language>en</original_language>
-         <original_title>Beast</original_title>
-         <overview>A recently widowed man and his two teenage daughters travel to a game reserve in South Africa. However, their journey of healing soon turns into a fight for survival when a bloodthirsty lion starts to stalk them.</overview>
-         <popularity>846.104</popularity>
-         <poster_path>/xIGr7UHsKf0URWmyyd5qFMAq4d8.jpg</poster_path>
-         <release_date>2022-08-11</release_date>
-         <title>Beast</title>
-         <video>false</video>
-         <vote_average>7.1</vote_average>
-         <vote_count>19</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/54PmeEzQMvpojpJBku61ZGQnWUX.jpg</backdrop_path>
-         <genre_ids>
-            <element>16</element>
-            <element>12</element>
-            <element>28</element>
-            <element>14</element>
-         </genre_ids>
-         <id>900667</id>
-         <original_language>ja</original_language>
-         <original_title>ONE PIECE FILM RED</original_title>
-         <overview>Uta — the most beloved singer in the world. Her voice, which she sings with while concealing her true identity, has been described as “otherworldly.” She will appear in public for the first time at a live concert. As the venue fills with all kinds of Uta fans — excited pirates, the Navy watching closely, and the Straw Hats led by Luffy who simply came to enjoy her sonorous performance — the voice that the whole world has been waiting for is about to resound. The story begins with the shocking fact that she is "Shanks' daughter.”</overview>
-         <popularity>411.546</popularity>
-         <poster_path>/gpzMYQQrDLSihHmCLHAKT8h30Oc.jpg</poster_path>
-         <release_date>2022-08-06</release_date>
-         <title>One Piece Film: Red</title>
-         <video>false</video>
-         <vote_average>7.7</vote_average>
-         <vote_count>52</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/7ef3yg5eCE6ZGKMsqUrfH8KdSMA.jpg</backdrop_path>
-         <genre_ids>
-            <element>16</element>
-            <element>28</element>
-            <element>10751</element>
-            <element>878</element>
-            <element>35</element>
-         </genre_ids>
-         <id>539681</id>
-         <original_language>en</original_language>
-         <original_title>DC League of Super-Pets</original_title>
-         <overview>When Superman and the rest of the Justice League are kidnapped, Krypto the Super-Dog must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the superheroes.</overview>
-         <popularity>410.84</popularity>
-         <poster_path>/r7XifzvtezNt31ypvsmb6Oqxw49.jpg</poster_path>
-         <release_date>2022-07-27</release_date>
-         <title>DC League of Super-Pets</title>
-         <video>false</video>
-         <vote_average>7.3</vote_average>
-         <vote_count>90</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/sS4MadD7pKMt251vKxdJo2YrkYP.jpg</backdrop_path>
-         <genre_ids>
-            <element>10749</element>
-            <element>18</element>
-         </genre_ids>
-         <id>744276</id>
-         <original_language>en</original_language>
-         <original_title>After Ever Happy</original_title>
-         <overview>As a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.</overview>
-         <popularity>442.886</popularity>
-         <poster_path>/vWLyXOFm1C3gnS8ksfqi7gwkijn.jpg</poster_path>
-         <release_date>2022-08-24</release_date>
-         <title>After Ever Happy</title>
-         <video>false</video>
-         <vote_average>0</vote_average>
-         <vote_count>0</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/xVbppM1xgbskOKgOuV8fbWBWHtt.jpg</backdrop_path>
-         <genre_ids>
-            <element>27</element>
-            <element>9648</element>
-            <element>878</element>
-            <element>53</element>
-         </genre_ids>
-         <id>762504</id>
-         <original_language>en</original_language>
-         <original_title>Nope</original_title>
-         <overview>Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.</overview>
-         <popularity>398.227</popularity>
-         <poster_path>/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg</poster_path>
-         <release_date>2022-07-20</release_date>
-         <title>Nope</title>
-         <video>false</video>
-         <vote_average>7</vote_average>
-         <vote_count>335</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg</backdrop_path>
-         <genre_ids>
-            <element>28</element>
-            <element>53</element>
-         </genre_ids>
-         <id>823625</id>
-         <original_language>en</original_language>
-         <original_title>Blacklight</original_title>
-         <overview>Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highest echelons of power.</overview>
-         <popularity>325.738</popularity>
-         <poster_path>/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg</poster_path>
-         <release_date>2022-02-10</release_date>
-         <title>Blacklight</title>
-         <video>false</video>
-         <vote_average>6.3</vote_average>
-         <vote_count>573</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/kpM7wX8K66bGZkYvfHXIrnXvDRS.jpg</backdrop_path>
-         <genre_ids>
-            <element>80</element>
-            <element>28</element>
-         </genre_ids>
-         <id>619803</id>
-         <original_language>ko</original_language>
-         <original_title>범죄도시 2</original_title>
-         <overview>The ‘Beast Cop’ Ma Seok-do heads to a foreign country to extradite a suspect, but soon after his arrival, he discovers additional murder cases and hears about a vicious killer who has been committing crimes against tourists for several years.</overview>
-         <popularity>236.776</popularity>
-         <poster_path>/tqHXCshqysM6DPnXeFIR74fNdKw.jpg</poster_path>
-         <release_date>2022-05-18</release_date>
-         <title>The Roundup</title>
-         <video>false</video>
-         <vote_average>7.3</vote_average>
-         <vote_count>51</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg</backdrop_path>
-         <genre_ids>
-            <element>28</element>
-            <element>12</element>
-            <element>878</element>
-         </genre_ids>
-         <id>545611</id>
-         <original_language>en</original_language>
-         <original_title>Everything Everywhere All at Once</original_title>
-         <overview>An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.</overview>
-         <popularity>219.921</popularity>
-         <poster_path>/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg</poster_path>
-         <release_date>2022-03-24</release_date>
-         <title>Everything Everywhere All at Once</title>
-         <video>false</video>
-         <vote_average>8.3</vote_average>
-         <vote_count>1345</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/n4Iy2cE52WsTKeNtuSD7vgu2qwf.jpg</backdrop_path>
-         <genre_ids>
-            <element>53</element>
-         </genre_ids>
-         <id>985939</id>
-         <original_language>en</original_language>
-         <original_title>Fall</original_title>
-         <overview>For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights.</overview>
-         <popularity>236.608</popularity>
-         <poster_path>/v28T5F1IygM8vXWZIycfNEm3xcL.jpg</poster_path>
-         <release_date>2022-08-11</release_date>
-         <title>Fall</title>
-         <video>false</video>
-         <vote_average>7.4</vote_average>
-         <vote_count>7</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/mDvx0cafHm1Z0R295wMxzpVTGf9.jpg</backdrop_path>
-         <genre_ids>
-            <element>12</element>
-            <element>16</element>
-            <element>35</element>
-            <element>10751</element>
-            <element>14</element>
-         </genre_ids>
-         <id>676705</id>
-         <original_language>fr</original_language>
-         <original_title>Pil</original_title>
-         <overview>Pil, a little vagabond girl, lives on the streets of the medieval city of Roc-en-Brume, along with her three tame weasels. She survives of food stolen from the castle of the sinister Regent Tristain. One day, to escape his guards, Pil disguises herself as a princess. Thus she embarks upon a mad, delirious adventure, together with Crobar, a big clumsy guard who thinks she's a noble, and Rigolin, a young crackpot jester. Pil is going to have to save Roland, rightful heir to the throne under the curse of a spell. This adventure will turn the entire kingdom upside down, and teach Pil that nobility can be found in all of us.</overview>
-         <popularity>210.468</popularity>
-         <poster_path>/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg</poster_path>
-         <release_date>2021-08-11</release_date>
-         <title>Pil's Adventures</title>
-         <video>false</video>
-         <vote_average>6.8</vote_average>
-         <vote_count>111</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/ft1jH9Zrjx48obILr8NpgfvLYku.jpg</backdrop_path>
-         <genre_ids>
-            <element>27</element>
-            <element>53</element>
-         </genre_ids>
-         <id>760161</id>
-         <original_language>en</original_language>
-         <original_title>Orphan: First Kill</original_title>
-         <overview>After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.</overview>
-         <popularity>208.582</popularity>
-         <poster_path>/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg</poster_path>
-         <release_date>2022-07-27</release_date>
-         <title>Orphan: First Kill</title>
-         <video>false</video>
-         <vote_average>5.8</vote_average>
-         <vote_count>12</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/i1GT0e6Crg6UezT3ibXnMS3pBAd.jpg</backdrop_path>
-         <genre_ids>
-            <element>16</element>
-            <element>18</element>
-            <element>10749</element>
-         </genre_ids>
-         <id>652837</id>
-         <original_language>ja</original_language>
-         <original_title>ジョゼと虎と魚たち</original_title>
-         <overview>With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.</overview>
-         <popularity>157.896</popularity>
-         <poster_path>/z1D8xi9x4uEhyFruo7uEHXUMD4K.jpg</poster_path>
-         <release_date>2020-12-25</release_date>
-         <title>Josee, the Tiger and the Fish</title>
-         <video>false</video>
-         <vote_average>8.5</vote_average>
-         <vote_count>255</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/4nswAImPQjLbyCpXkwHjFlXxAeG.jpg</backdrop_path>
-         <genre_ids>
-            <element>16</element>
-            <element>18</element>
-            <element>878</element>
-         </genre_ids>
-         <id>741335</id>
-         <original_language>ja</original_language>
-         <original_title>アイの歌声を聴かせて</original_title>
-         <overview>Satomi is fine being alone until an AI named Shion joins her class with a song and a promise to make her happy. While Shion’s musical numbers and princess gowns don’t quite pass as human, her antics bring Satomi closer to four other classmates. Together, they make memories worth saving, but even our most precious data can be erased.</overview>
-         <popularity>144.632</popularity>
-         <poster_path>/bDx77d1SLXGWIGMlz6nWx0SghiT.jpg</poster_path>
-         <release_date>2021-10-29</release_date>
-         <title>Sing a Bit of Harmony</title>
-         <video>false</video>
-         <vote_average>7.9</vote_average>
-         <vote_count>8</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/92PJmMopfy64VYjd0HvIQaHGZX0.jpg</backdrop_path>
-         <genre_ids>
-            <element>10751</element>
-            <element>35</element>
-            <element>16</element>
-            <element>28</element>
-         </genre_ids>
-         <id>366672</id>
-         <original_language>en</original_language>
-         <original_title>Paws of Fury: The Legend of Hank</original_title>
-         <overview>A hard-on-his-luck hound finds himself in a town full of cats in need of a hero to defend them from a ruthless villain's wicked plot to wipe their village off the map. With help from a reluctant mentor, our underdog must assume the role of town samurai and team up with the villagers to save the day.</overview>
-         <popularity>123.023</popularity>
-         <poster_path>/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg</poster_path>
-         <release_date>2022-07-14</release_date>
-         <title>Paws of Fury: The Legend of Hank</title>
-         <video>false</video>
-         <vote_average>6.6</vote_average>
-         <vote_count>71</vote_count>
-      </element>
-      <element>
-         <adult>false</adult>
-         <backdrop_path>/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg</backdrop_path>
-         <genre_ids>
-            <element>27</element>
-            <element>9648</element>
-         </genre_ids>
-         <id>751237</id>
-         <original_language>en</original_language>
-         <original_title>Umma</original_title>
-         <overview>Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.</overview>
-         <popularity>115.117</popularity>
-         <poster_path>/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg</poster_path>
-         <release_date>2022-03-18</release_date>
-         <title>Umma</title>
-         <video>false</video>
-         <vote_average>5.7</vote_average>
-         <vote_count>127</vote_count>
-      </element>
-   </results>
-</root>
+   <movies>
+      <movie>
+         <description>Miyu Mizuno and Shuya Shinohara are high school students. They have dated for two years and promised that no matter what, they will watch a movie together on the first day of each new month. When Miyu and Shuya are on their way to the movie theater, Shuya suddenly cancels their date. Shuya seems like he is hiding something and he acts nervous. Later, Miyu goes to the place where she is supposed to meet Shuya, but she witnesses Shuya getting into a car accident. She panics, but when she wakes up she finds herself on the morning of the accident. Miyu keeps waking up on the day when Shuya got into an accident.</description>
+         <genres>
+            <genre>Romance</genre>
+         </genres>
+         <id>44425</id>
+         <language>ja</language>
+         <minutes>93</minutes>
+         <rating>5.4</rating>
+         <title>The Blue Skies at Your Feet</title>
+         <uploaded>2022-08-22 05:35:36</uploaded>
+         <year>2022</year>
+      </movie>
+      <movie>
+         <description>Billionaire sportsman Buddy King unwinds by hunting human captives on his remote mountain estate. But his latest victim, Ava Bravo, is no easy target.</description>
+         <genres>
+            <genre>Action</genre>
+            <genre>Thriller</genre>
+         </genres>
+         <id>44423</id>
+         <language>en</language>
+         <minutes>90</minutes>
+         <rating>4.9</rating>
+         <title>Hunting Ava Bravo</title>
+         <uploaded>2022-08-22 03:36:08</uploaded>
+         <year>2022</year>
+      </movie>
+      <movie>
+         <description>"One More Dream" is a coming-of-age drama set in modern-day America. High School is as much a time for fear and self-doubt as it is for dreams. In One More Dream, we get a rare glimpse into the mind of young Jeremy as he tries to understand how the heartbreaks of adolescence interrupt the lives of his friends and how real the fight is in overcoming the doubts and fears in his own life. Jeremy's life is pretty good until a bully embarrasses him in front of the whole school and the love of his life breaks up with him. Devastated, he turns to Jules, his encourager. Jules is a tender heart with a tough exterior, but instead of comfort, Jules has some harsh truths for Jeremy about dealing with his fear. Later, when Jeremy stumbles across his arch-nemesis in crisis, he reluctantly rescues him. Jeremy begins to see how the pain of the past impacts how people respond in the present, and although he cannot change the past, having friends who support you and encourage you can give you the strength to overcome the fears and doubts and create a new dream for yourself.</description>
+         <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+         </genres>
+         <id>44422</id>
+         <language>en</language>
+         <minutes>90</minutes>
+         <rating>0</rating>
+         <title>One More Dream</title>
+         <uploaded>2022-08-22 03:57:52</uploaded>
+         <year>2022</year>
+      </movie>
+      <movie>
+         <description>A journey back to the 80's, to the origins of the video games industry, through the story of a group of teenagers in their quest to create the most original game.</description>
+         <genres>
+            <genre>Documentary</genre>
+            <genre>Family</genre>
+            <genre>History</genre>
+         </genres>
+         <id>44417</id>
+         <language>es</language>
+         <minutes>64</minutes>
+         <rating>6.1</rating>
+         <title>We don't like Captain Sausage!</title>
+         <uploaded>2022-08-22 06:58:52</uploaded>
+         <year>2015</year>
+      </movie>
+      <movie>
+         <description>In Morocco, unmarried women who become pregnant still risk criminal prosecution and social exclusion. The Oum El Banine association in Agadir, headed by 62-year-old feminist Mahjouba Edbouche, is there to support them.</description>
+         <genres>
+            <genre>Documentary</genre>
+         </genres>
+         <id>44418</id>
+         <language>ar</language>
+         <minutes>63</minutes>
+         <rating>7.3</rating>
+         <title>Mothers</title>
+         <uploaded>2022-08-22 01:43:32</uploaded>
+         <year>2020</year>
+      </movie>
+      <movie>
+         <description>As he approaches 90, Dani Karavan embarks on an emotional, political journey. En route, the complex and fascinating character of one of the greatest artists of our time is revealed.</description>
+         <genres>
+            <genre>Documentary</genre>
+         </genres>
+         <id>44416</id>
+         <language>he</language>
+         <minutes>66</minutes>
+         <rating>7.3</rating>
+         <title>High Maintenance</title>
+         <uploaded>2022-08-22 02:22:06</uploaded>
+         <year>2020</year>
+      </movie>
+      <movie>
+         <description>In 2013 a crowd of enraged women take to the streets after a string of severe sexual assaults occur in Tahrir Square on the second anniversary of the revolution in Cairo.</description>
+         <genres>
+            <genre>Documentary</genre>
+         </genres>
+         <id>44415</id>
+         <language>ar</language>
+         <minutes>88</minutes>
+         <rating>7.2</rating>
+         <title>As I Want</title>
+         <uploaded>2022-08-22 02:20:33</uploaded>
+         <year>2021</year>
+      </movie>
+      <movie>
+         <description>77 Minutes is a documentary by Charlie Minn about the McDonalds Massacre from 1984, when a man walked into a McDonald's restaurant in San Diego armed with guns and shot 40 men, women, and children. It took law enforcement 77 minutes to end the siege. This documentary focuses on the victims of the attack and its effects.</description>
+         <genres>
+            <genre>Documentary</genre>
+         </genres>
+         <id>44414</id>
+         <language>en</language>
+         <minutes>98</minutes>
+         <rating>5.5</rating>
+         <title>77 Minutes</title>
+         <uploaded>2022-08-22 06:38:10</uploaded>
+         <year>2016</year>
+      </movie>
+      <movie>
+         <description>In the Napoleonic wars, an officer finds an old book that relates his grandfather's story, Alfons van Worden, captain in the Walloon guard. A man of honor and courage, he seeks the shortest route through the Sierra Morena. At an inn, the Venta Quemada, he sups with two Islamic princesses. They call him their cousin and seduce him; he wakes beside corpses under a gallows. He meets a hermit priest and a goatherd; each tells his story; he wakes again by the gallows. He's rescued from the Inquisition, meets a cabalist and hears more stories within stories, usually of love. He returns to Venta Quemada, the women await with astonishing news.</description>
+         <genres>
+            <genre>Comedy</genre>
+            <genre>Drama</genre>
+            <genre>Fantasy</genre>
+         </genres>
+         <id>44413</id>
+         <language>pl</language>
+         <minutes>182</minutes>
+         <rating>7.8</rating>
+         <title>The Saragossa Manuscript</title>
+         <uploaded>2022-08-22 05:57:27</uploaded>
+         <year>1965</year>
+      </movie>
+      <movie>
+         <description>An alien is dispatched from a faraway galaxy to take over the Earth by "duplicating" humans and creating a race of zombies resembling animated pottery in this low-budget sci-fi film. Enjoy the opening and closing shots of the alien spacecraft resembling a Christmas tree bauble dancing in space, the faces of the "duplicated" humans shattering like a cheap vase when thrown to the floor, and the formative "duplicates" as they are cooked up in the lab in individual coffins. The alien's heart is softened by the persevering goodness of a beautiful blind woman, deeply conflicting his motives as the film plods to its "climactic" confrontation between the humans and their counterfeit duplicates.</description>
+         <genres>
+            <genre>Horror</genre>
+            <genre>Sci-Fi</genre>
+         </genres>
+         <id>44411</id>
+         <language>en</language>
+         <minutes>100</minutes>
+         <rating>3.1</rating>
+         <title>The Human Duplicators</title>
+         <uploaded>2022-08-22 00:49:41</uploaded>
+         <year>1965</year>
+      </movie>
+      <movie>
+         <description>Angélique is sixty. But she is not old. The best proof is that she is still working as a taxi girl in a cabaret by the French-German border. And that her love for men is intact. And that she keeps loving partying. And that there is nothing for her like night life... Of course clients are becoming rarer and rarer. Sure a few of them are offensive to her and treat her like meat... But what a surprise when Michel, a friendly retired miner, asks her to marry him! Will she be able to become a respected married lady? Will she manage to make it up with her family? Can she really say farewell to her present lifestyle?</description>
+         <genres>
+            <genre>Drama</genre>
+         </genres>
+         <id>44412</id>
+         <language>fr</language>
+         <minutes>96</minutes>
+         <rating>6.4</rating>
+         <title>Party Girl</title>
+         <uploaded>2022-08-22 00:42:33</uploaded>
+         <year>2014</year>
+      </movie>
+      <movie>
+         <description>France, 1425. In the midst of the Hundred Years' War, the young Jeannette, at the still tender age of 8, looks after her sheep in the small village of Domremy. One day, she tells her friend Hauviette how she cannot bear to see the suffering caused by the English. Madame Gervaise, a nun, tries to reason with the young girl, but Jeannette is ready to take up arms for the salvation of souls and the liberation of the Kingdom of France. Carried by her faith, she will become Joan of Arc.</description>
+         <genres>
+            <genre>History</genre>
+            <genre>Musical</genre>
+         </genres>
+         <id>44410</id>
+         <language>fr</language>
+         <minutes>105</minutes>
+         <rating>5.9</rating>
+         <title>Jeannette: The Childhood of Joan of Arc</title>
+         <uploaded>2022-08-22 03:03:06</uploaded>
+         <year>2017</year>
+      </movie>
+      <movie>
+         <description>Stanislaus Pilgrin, a Polish chess master and handsome gigolo, marries wealthy Jewish widow Dr. Michele Wolf, an X-ray technician, has an affair with her stepdaughter Fabienne, then plots to murder them both in a scheme in which he will inherit their money.</description>
+         <genres>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Thriller</genre>
+         </genres>
+         <id>44409</id>
+         <language>en</language>
+         <minutes>104</minutes>
+         <rating>7</rating>
+         <title>Return from the Ashes</title>
+         <uploaded>2022-08-22 00:37:44</uploaded>
+         <year>1965</year>
+      </movie>
+      <movie>
+         <description>The strange little guy in the blue hood is well known to Krosmoz. His name is Joris and he's proposing to take you on a fantastic adventure. Our hero is leading a happy life in his magic shop in the city of Bonta. But one day, when he seeks out his idol, a Gobbowl superstar, everything changes for the worst as Julith, the vengeful witch, is back in town!</description>
+         <genres>
+            <genre>Action</genre>
+            <genre>Adventure</genre>
+            <genre>Animation</genre>
+            <genre>Comedy</genre>
+            <genre>Fantasy</genre>
+         </genres>
+         <id>44408</id>
+         <language>fr</language>
+         <minutes>100</minutes>
+         <rating>7.5</rating>
+         <title>Dofus: Book 1 - Julith</title>
+         <uploaded>2022-08-22 03:47:58</uploaded>
+         <year>2015</year>
+      </movie>
+      <movie>
+         <description>Set in the late 19th century, about a honored but poor patriarch who sacrifices himself to protect his fugitive son.</description>
+         <genres>
+            <genre>Drama</genre>
+         </genres>
+         <id>44407</id>
+         <language>fr</language>
+         <minutes>95</minutes>
+         <rating>6.4</rating>
+         <title>Gebo and the Shadow</title>
+         <uploaded>2022-08-22 04:50:32</uploaded>
+         <year>2012</year>
+      </movie>
+      <movie>
+         <description>Before his arrest and conviction for serial murders, chocolate factory worker Jeffrey Dahmer hunts Milwaukee, Wisconsin, for young attractive males to turn into unconscious (eventually dead) human sex toys, current acts which often prompt memories of earlier killings and of dealings with his suspicious but unaware father.</description>
+         <genres>
+            <genre>Biography</genre>
+            <genre>Crime</genre>
+            <genre>Drama</genre>
+            <genre>Horror</genre>
+            <genre>Thriller</genre>
+         </genres>
+         <id>44406</id>
+         <language>en</language>
+         <minutes>101</minutes>
+         <rating>5.6</rating>
+         <title>Dahmer</title>
+         <uploaded>2022-08-22 00:31:42</uploaded>
+         <year>2002</year>
+      </movie>
+      <movie>
+         <description>A prison bus with over a dozen criminals on board has an accident and rams another car, in which Dr. Douglas Madsen was on his way home. Most of the prisoners die. Four of them survive, one of them severely injured. After having killed all the guards, they head for the woods. They take Dr. Douglas Madsen hostage. Suddenly a huge house appears in the middle of the woods. The leader of the group, Arthur, emphasizes that he will kill Douglas and every single member of the "family" if his wounded brother would die. Meanwhile some members of the family show strange behavior, and very soon mayhem breaks loose.</description>
+         <genres>
+            <genre>Horror</genre>
+         </genres>
+         <id>44405</id>
+         <language>en</language>
+         <minutes>101</minutes>
+         <rating>3.6</rating>
+         <title>Chain Reaction</title>
+         <uploaded>2022-08-22 04:08:19</uploaded>
+         <year>2006</year>
+      </movie>
+      <movie>
+         <description>A nameless woman keeps a diary as the Russians invade Berlin in the spring of 1945. She is in her early 30s, a patriotic journalist with international credentials; her husband, Gerd, a writer, is an officer at the Russian front. She speaks Russian and, for a day or two after the invasion, keeps herself safe, but then the rapes begin. She resolves to control her fate and invites the attentions of a Russian major, Andreij Rybkin. He becomes her protector of sorts subject to pressures from his own fellow soldiers and officers. Dramas play out in the block of flats where she lives. Is she an amoral traitor? She asks, "How do we go on living?" And what of Gerd and her diary?</description>
+         <genres>
+            <genre>Biography</genre>
+            <genre>Drama</genre>
+            <genre>History</genre>
+            <genre>War</genre>
+         </genres>
+         <id>44403</id>
+         <language>de</language>
+         <minutes>131</minutes>
+         <rating>7</rating>
+         <title>Anonyma - Eine Frau in Berlin</title>
+         <uploaded>2022-08-22 05:10:27</uploaded>
+         <year>2008</year>
+      </movie>
+      <movie>
+         <description>Paris by night. Alex, 22, wants to become a filmmaker. He is fascinated by first times and his girlfriend, Florence, has just left him for his best friend, Thomas. First break-up, first attempted murder: Alex tries to strangle Thomas, but gives up and wanders the streets. That evening, Mireille, a girl from provincial France who has come up to Paris to make commercials, is left by her boyfriend. Alex witnesses this separation. These two tormented souls run into each other at a party....</description>
+         <genres>
+            <genre>Drama</genre>
+            <genre>Romance</genre>
+         </genres>
+         <id>44404</id>
+         <language>fr</language>
+         <minutes>100</minutes>
+         <rating>6.9</rating>
+         <title>Boy Meets Girl</title>
+         <uploaded>2022-08-22 07:21:10</uploaded>
+         <year>1984</year>
+      </movie>
+      <movie>
+         <description>A syndicate is set up by a horse lover to buy a particular racehorse, but they accidentally buy the wrong horse. The horse is useless on the flat, so they decide to enter him as a jumper.</description>
+         <genres>
+            <genre>Comedy</genre>
+         </genres>
+         <id>44402</id>
+         <language>en</language>
+         <minutes>80</minutes>
+         <rating>6.3</rating>
+         <title>The Galloping Major</title>
+         <uploaded>2022-08-22 02:14:27</uploaded>
+         <year>1951</year>
+      </movie>
+   </movies>

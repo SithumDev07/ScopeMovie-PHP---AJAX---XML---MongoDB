@@ -1,3 +1,6 @@
 {
-    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light"
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast Light",
+    "cSpell.autoFormatConfigFile": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

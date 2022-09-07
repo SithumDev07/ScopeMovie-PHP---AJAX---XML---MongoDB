@@ -1,8 +1,4 @@
 <?php
-
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
-$xml = simplexml_load_file('movies.xml');
-print_r($xml);
+define('ROOTPATH', dirname(__FILE__).'/assets/videos/Dune_Main_Trailer.mp4');
+require_once "./error_report.php";
+include "views/all.php";
