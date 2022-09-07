@@ -11,6 +11,7 @@ module.exports = {
       backgroundImage: {
         "home-featured": "url('../assets/images/dune.jpg')",
         logo: "url('../assets/images/ScopeMovies.png')",
+        "movie-banner": "url('../assets/images/money_heist/banner/banner.jpg')",
       },
       colors: {
         "scope-white": "#ffffff",
